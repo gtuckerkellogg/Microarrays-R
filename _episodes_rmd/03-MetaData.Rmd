@@ -6,6 +6,8 @@ source: Rmd
 objectives:
 - Be able to use metadata from GEO objects to construct useful R data objects
 - Be able to use read.affybatch in combination with your own phenoData object to ensure data integrity
+questions:
+- "If an experiment were more complicated, and included several independent variables, would you be able to create a phenoData object from the GSE?"
 keypoints: 
 - GEO metadata can be cast into R data objects for analysis. The details are up to the user.
 - Using a proper phenoData object to describe an experiment helps to ensure reproducibility and avoid reading in files out of order
@@ -100,3 +102,6 @@ Remember the risk of using `read.affybatch()`? Now that we have the data frame, 
 > That works, and no errors! We are good to go.
 >
 {: .solution}
+
+{% include lesson-links.md %} 
+{% include links.md %} 

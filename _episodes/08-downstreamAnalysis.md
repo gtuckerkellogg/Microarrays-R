@@ -93,3 +93,5 @@ We notice from the heatmap two distinct clusters of samples, each corresponding 
 
 ## What's next?
 Although we have discussed the volcano plot, the MA plot and heatmaps, many other downstream analysis can be done. For instance, one commonly used analysis toolkit is the gene set enrichment analysis (GSEA) where we test for whether particular sets of genes are enriched in our list of differentially expressed genes. Ultimately, what downstream analysis is performed is dependent on the question that one wishes to address. New analysis methods are constantly being developed by others, and hence it is important for one to keep abreast on these developments in order to get the most out of our analysis. 
+
+{% include links.md %}
