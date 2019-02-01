@@ -9,8 +9,6 @@ the lesson locally, and even how to write new episodes.
 
 ## Maintainer(s)
 
-* FIXME
-
 ## Authors
 
 A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
