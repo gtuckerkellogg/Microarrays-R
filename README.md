@@ -1,8 +1,3 @@
-
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
-
-FIXME
-
 ## Contributing
 
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if
