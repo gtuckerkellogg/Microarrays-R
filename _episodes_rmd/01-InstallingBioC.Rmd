@@ -1,5 +1,4 @@
 ---
-start: yes
 title: Working with Bioconductor
 teaching: 10
 exercises: 10
