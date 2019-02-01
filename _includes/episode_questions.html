@@ -1,0 +1,11 @@
+{% comment %}
+  Display reflection questions.
+{% endcomment %}
+<blockquote class="question">
+  <h2>Questions for reflection</h2>
+  <ul>
+    {% for question in page.questions %}
+    <li>{{ question|markdownify }}</li>
+    {% endfor %}
+  </ul>
+</blockquote>

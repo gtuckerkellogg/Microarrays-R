@@ -6,6 +6,10 @@ layout: base
 {% include episode_title.html %}
 {% include episode_overview.html %}
 {{content}}
+
 {% include episode_keypoints.html %}
+{% if page.questions %} 
+{% include episode_questions.html %}
+{% endif %} 
 </article>
 {% include episode_navbar.html episode_navbar_title=false %}
